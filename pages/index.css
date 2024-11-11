@@ -12,10 +12,6 @@ body {
     line-height: 20px;
 }
 
-.serif-font {
-    font-family: 'Noto Serif', 'Times New Roman', serif;
-}
-
 body {
     display: flex;
     justify-content: center;
